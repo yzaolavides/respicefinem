@@ -1,0 +1,5 @@
+
+@font-face {
+  font-family: 'mysl';
+  src: url('{{ site.baseurl }}/assets/fonts/mysl.ttf') format('ttf');
+}
