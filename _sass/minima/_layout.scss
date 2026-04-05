@@ -235,9 +235,35 @@
   }
 }
 
+.hero-image-container {
+  position: relative;
+  display: block;
+
+  img {
+    float: right;
+    width: 80%;
+    display: block;
+  }
+
+  .hero-caption {
+    position: absolute;
+    top: 40%;
+    left: 1%;
+    font-family: "biro", cursive;
+    color: #c0392b;
+    font-size: 3rem;
+    line-height: 1.4;
+    margin: 0;
+    letter-spacing: 0;  // override your global -4% here since handwritten fonts look weird with tight tracking
+  }
+}
+
 .post-content {
   margin-bottom: $spacing-unit;
-
+  p {
+    text-align: justify;
+    margin-left: 40%;
+  }
   h2 {
     @include relative-font-size(2);
 
