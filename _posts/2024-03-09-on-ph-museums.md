@@ -8,9 +8,10 @@ entry_number: 1
 
 <div class="hero-image-container">
   <img src="https://i.postimg.cc/vZKCnPKk/museum.jpg" alt="description">
-  <p class="hero-caption">i have always been a<br>fan of art museums</p>
+  <!-- <p class="hero-caption">i have always been a<br>fan of art museums</p> -->
 </div>
 
+<br>
 I've always been a fan of art museums. It was probably because I was introduced to them at a young age by my mom, who was the original museum enthusiast. Although museums usually contain artifacts, sculptures, it was paintings that always caught my eye. Two years ago, I was lucky to be able to visit the Louvre Abu Dhabi, and it was there that I've had the opportunity to be exposed to European art, such as paintings by Pierre Renoir, Claude Monet, Édouard Manet, and Vincent van Gogh. 
 
 However, as I looked at the various idyllic impressionist paintings, with various Europeans tourists and Arab locals around me, I thought to myself: I've never actually seen a painting made by a Filipino before. I haven't seen works of Luna, Amorsolo, Tolentino, and more beyond the low-quality image of elementary text books. 

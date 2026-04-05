@@ -1,15 +1,15 @@
 
 @font-face {
   font-family: 'mysl';
-  src: url('/respicefinem/assets/fonts/mysl.ttf') format('truetype');
+  src: url($baseurl + "/assets/fonts/mysl.ttf") format('truetype');
 }
 
 @font-face {
   font-family: 'neue-montreal';
-  src: url('/respicefinem/assets/fonts/NeueMontreal-Regular.otf') format('opentype');
+  src: url($baseurl + "/assets/fonts/NeueMontreal-Regular.otf") format('opentype');
 }
 
 @font-face {
   font-family: 'biro';
-  src: url('/respicefinem/assets/fonts/biro.otf') format('opentype');
+  src: url($baseurl + "/assets/fonts/biro.otf") format('opentype');
 }
