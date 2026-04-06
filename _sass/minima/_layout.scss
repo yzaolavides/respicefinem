@@ -260,9 +260,14 @@
 
 .post-content {
   margin-bottom: $spacing-unit;
+  > *:not(h1, h2, h3, .hero-image-container, figure, table) {
+    margin-left: 30%;
+  }
   p {
     text-align: justify;
-    margin-left: 40%;
+  }
+  blockquote p {
+  margin-left: 0;
   }
   h2 {
     @include relative-font-size(2);

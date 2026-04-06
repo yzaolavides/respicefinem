@@ -65,12 +65,34 @@ img {
 /**
  * Figures
  */
-figure > img {
+figure {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 2rem;
+
+  figcaption {
+    width: 30%;
+    font-size: $small-font-size;
+    color: #888;
+    // border-top: 2px solid #c0392b;
+    padding-top: 0.25rem;
+  }
+
+  figcaption::before {
+  content: "";
   display: block;
+  width: 50px;       /* Width of the line */
+  height: 2px;       /* Thickness of the line */
+  background: #c0392b; /* Color of the line */
+  margin-left: 0; /* Centered with space below */
+  margin-bottom: 10%;
 }
 
-figcaption {
-  font-size: $small-font-size;
+  img {
+    width: 70%;
+    flex-shrink: 0;
+    object-fit: cover;
+  }
 }
 
 
@@ -130,12 +152,12 @@ a {
  * Blockquotes
  */
 blockquote {
-  color: $grey-color;
+  margin-left: 40%;
+  font-family: "biro", cursive;
+  color: #c0392b;
   border-left: 4px solid $grey-color-light;
-  padding-left: $spacing-unit * 0.5;
+  padding-left: 2%;
   @include relative-font-size(1.125);
-  letter-spacing: -1px;
-  font-style: italic;
 
   > :last-child {
     margin-bottom: 0;
