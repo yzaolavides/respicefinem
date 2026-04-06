@@ -1,0 +1,31 @@
+
+
+figure {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 2rem;
+  figcaption {
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    font-size: $small-font-size;
+    color: #888;
+    padding-top: 0.25rem;
+
+    &::before {
+      content: "";
+      display: block;
+      width: 50px;
+      height: 2px;
+      background: #c0392b;
+      margin-bottom: 0.75rem;
+    }
+  }
+  
+
+  img {
+    width: 70%;
+    flex-shrink: 0;
+    object-fit: cover;
+  }
+}
