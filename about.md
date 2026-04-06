@@ -4,15 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+I'm not really sure why you would want to know more about me. I've basically summed up my life in that "About Me" widget on the right sidebar. It's kind of sad, really. Well, since you had the audacity to actually click the about me link I guess I'll make the effort to write something about me. Once in an old blog, my 14-year-old self would describe me as not a touchy-feely kind of person to the point that some might even call me emotionally constipated, so make of that what you will.

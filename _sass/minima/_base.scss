@@ -155,9 +155,9 @@ blockquote {
   margin-left: 40%;
   font-family: "biro", cursive;
   color: #c0392b;
-  border-left: 4px solid $grey-color-light;
-  padding-left: 2%;
-  @include relative-font-size(1.125);
+  // border-left: 4px solid $grey-color-light;
+  // padding-left: 2%;
+  @include relative-font-size(1.5);
 
   > :last-child {
     margin-bottom: 0;

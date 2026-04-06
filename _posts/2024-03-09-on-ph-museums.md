@@ -2,7 +2,7 @@
 layout: post
 title: "On Philippine Museums"
 tags: art
-location: "Abu Dhabi, UAE"
+location: "Cebu City, PH"
 entry_number: 1
 ---
 
@@ -34,3 +34,11 @@ There were also artifacts recovered from a shipwreck, as well. What I didn't rea
 I can say that as a Filipino, looking at Western artwork is nothing compared to the connection you feel when you see works of Philippine artists. In every artwork, you see the struggles and the perseverance of Filipino artists in their craft and who, despite being looked down upon by their European colonizers, still proved that they are as equal and if not better than their Western counterparts.  
 
 This brief excursion has made me realize that we often get distracted in our attempt to conform into global society and its obsession with Western art, that we start to forget about our fellow Filipinos' works of art. Furthermore, at the height of globalization we face today, we must always strive to preserve our own culture as Filipinos. The opening of the National Museum in Cebu is one step forward in introducing our arts and culture to the Filipino youth, and I hope to see more of these efforts across the country in the future.
+
+<figure>
+    <figcaption>I made a little video on my excursion to the National Museum last year.</figcaption>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/IsD5usLg5rU?si=ufd25A67f0UjSjsK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</figure>
+
+<i>Every authentic work of art is a gift offered to the future 
+ <br>-Albert Camus</i>
